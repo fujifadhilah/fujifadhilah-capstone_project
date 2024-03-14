@@ -104,8 +104,7 @@ Lapangan usaha berdasarkan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2015
 2. Insdustri terdiri atas sektor pertambangan, penggalian, industri pengolahan, listrik, gas, air, bangunan.
 3. Jasa terdiri atas sektor perdagangan besar, eceran, rumah makan, angkutan, keuangan, usaha persewaan bangunan atau tanah, jasa kemasyarakatan, sosial, perorangan.
  
-<p style='text-align: justify; text-indent: 40px;'>Insight: 
-Pendapatan pekerja informal dari sektor pertanian cenderung lebih rendah dibandingkan dengan sektor-sektor lainnya.</p>
+Pendapatan pekerja informal dari sektor **pertanian cenderung lebih rendah** dibandingkan dengan sektor-sektor lainnya.</p>
 """, unsafe_allow_html=True)
 
 

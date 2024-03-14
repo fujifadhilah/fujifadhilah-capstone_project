@@ -9,7 +9,7 @@ import plotly.express as px
 st.set_page_config(layout='wide')
 
 # Judul dashboard
-st.markdown("<h1 style='text-align: center; color: black; margin-bottom: 100px;}'>Dilema Pekerja Informal dalam Mengatasi Kesenjangan Pendapatan</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; margin-bottom: 100px;}'>Dilema Pekerja Informal dalam Mengatasi Kesenjangan Pendapatan</h1>", unsafe_allow_html=True)
 
 # Add image
 from PIL import Image
@@ -20,13 +20,3 @@ st.image(
     use_column_width=True
 )
 
-# page_bg_img = '''
-# <style>
-# body {
-# background-image: url("informal_worker.png");
-# background-size: cover;
-# }
-# </style>
-# '''
-
-# st.markdown(page_bg_img, unsafe_allow_html=True)

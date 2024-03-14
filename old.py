@@ -85,8 +85,7 @@ st.header("Rata-rata Total Pengeluaran Berdasarkan Jenis Pengeluaran")
 bar_chart = alt.Chart(sourceBarChart).mark_bar(size=18).encode(
     x='Pengeluaran (Rp):Q', 
     y='year:N',
-    color='type:N',
-    row=alt.Row('province', spacing=50)
+    color='type:N'
 ).transform_fold(
     as_=['type', 'Pengeluaran (Rp)'],
     fold=['food_outcome', 'not_food_outcome']
@@ -97,7 +96,6 @@ st.altair_chart(bar_chart, theme="streamlit", use_container_width=False)
 st.markdown("""
  <p style='text-align: justify; text-indent: 40px;'>Insight: Pengeluaran pekerja informal untuk kebutuhan non-makanan lebih besar daripada pengeluaran untuk makanan, sekitar dua kali lipat lebih banyak. Contoh pengeluaran non-makanan meliputi fasilitas rumah tangga, perumahan, barang tahan lama, kesehatan, pendidikan, pakaian, keperluan kenduri, dan sebagainya.</p>
 """, unsafe_allow_html=True)
-
 
 
 

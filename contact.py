@@ -12,7 +12,7 @@ st.header("Contact")
 st.markdown("""
 Halo, Nama saya Nur Fuji Fadhilah. Terima kasih telah mengunjungi project saya.
 
-Saya lulusan Institut Pertanian Bogor jurusan Matematika. Saya telah bekerja di sebuah perusahaan pertambangan selama 1 tahun lebih 2 bulan sebagai SAP PM analyst divisi Technology Solution. Saya membuat visualisasi untuk mengetahui perbedaan antara pendapatan dan pengeluaran pekerja informal di Indonesia.
+Saya lulusan Institut Pertanian Bogor jurusan Matematika. Saya telah bekerja di sebuah perusahaan pertambangan selama 1 tahun lebih 2 bulan sebagai SAP PM analyst divisi Technology Solution. Saya membuat visualisasi untuk mengetahui pendapatan dan pengeluaran pekerja informal di Indonesia.
 
 Saya juga memiliki pengalaman intern di Badan Pusat Statistik Kabupaten Batang pada divisi Integrasi Pengolahan dan Diseminasi Statistik. Ketika kuliah, saya mengajar matematika siswa SD, SMP dan SMA secara privat dan bimbel. Saya tertarik untuk mengupgrade skills terutama di bidang data.
 

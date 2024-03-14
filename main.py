@@ -9,15 +9,15 @@ add_page_title("Tren")
 
 show_pages(
     [
-        Page("page_title.py", "Home",":house:"),
-        Page("page_home.py", "Problem Statement",":bookmark_tabs:"),
-        Page("page_one.py", "Visualization 1", ":chart_with_downwards_trend:"),
-        Page("page_two.py", "Visualization 2", ":bar_chart:"),
-        Page("page_three.py", "Visualization 3", ":card_index:"),
-        Page("page_four.py", "Visualization 4", ":cinema:"),
-        Page("page_five.py", "Conclusion", ":page_facing_up:"),
-        Page("page_six.py", "Suggestion", ":loudspeaker:"),
-        Page("page_seven.py", "Data Source", ":book:"),
-        Page("page_eight.py", "Contact", ":phone:"),
+        Page("background.py", "Home",":house:"),
+        Page("problem_statement.py", "Problem Statement",":bookmark_tabs:"),
+        Page("income_outcome.py", "Income vs Outcome", ":chart_with_downwards_trend:"),
+        Page("type_outcome.py", "Type of Outcome", ":bar_chart:"),
+        Page("composition_income.py", "Composition of Income", ":card_index:"),
+        Page("income_ump.py", "Income vs UMP", ":cinema:"),
+        Page("conclusion.py", "Conclusion", ":page_facing_up:"),
+        Page("suggestion.py", "Suggestion", ":loudspeaker:"),
+        Page("data_source.py", "Data Source", ":book:"),
+        Page("contact.py", "Contact", ":phone:"),
     ]
 )
