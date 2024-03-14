@@ -164,9 +164,14 @@ with tab2:
 
     st.plotly_chart(image1, theme="streamlit")
     
+    st.markdown("""
+            * biru tua : income
+            * biru muda : outcome
+            """)
+
     custom_container = st.container(border=True)
     with custom_container:
-        st.markdown("Pada tahun 2020 terdapat **2 dari 34 provinsi yang mengalami kesenjangan** yaitu **DI Yogyakarta** dengan selisih sebesar **Rp194.498** dan **Bali** dengan selisih sebesar **Rp28.013** hal tersebut terjadi beriringan dengan mulainya pandemi COVID-19 di Indonesia.")
+        st.markdown("Pada tahun 2020 terdapat **2 dari 34 provinsi yang mengalami defisit pendapatan** yaitu **DI Yogyakarta** dengan selisih sebesar **Rp194.498** dan **Bali** dengan selisih sebesar **Rp28.013** hal tersebut terjadi beriringan dengan mulainya pandemi COVID-19 di Indonesia.")
 
 # Chart 3
 with tab3:
@@ -218,9 +223,14 @@ with tab3:
 
     st.plotly_chart(image3, theme="streamlit")
     
+    st.markdown("""
+            * biru tua : income
+            * biru muda : outcome
+            """)
+
     custom_container = st.container(border=True)
     with custom_container:
-        st.markdown("Pada tahun 2021 terdapat **4 dari 34 provinsi yang mengalami kesenjangan** yaitu **DKI Jakarta** dengan selisih sebesar **Rp134.427**, **DI Yogyakarta** dengan selisih sebesar **Rp282.499**, **Bali** dengan selisih sebesar **Rp204.353**, **Nusa Tenggara Barat** dengan selisih sebesar **131.885**.")
+        st.markdown("Pada tahun 2021 terdapat **4 dari 34 provinsi yang mengalami defisit pendapatan** yaitu **DKI Jakarta** dengan selisih sebesar **Rp134.427**, **DI Yogyakarta** dengan selisih sebesar **Rp282.499**, **Bali** dengan selisih sebesar **Rp204.353**, **Nusa Tenggara Barat** dengan selisih sebesar **131.885**.")
 
 # Chart 4
 with tab4:
@@ -272,9 +282,14 @@ with tab4:
     
     st.plotly_chart(image3, theme="streamlit")
     
+    st.markdown("""
+            * biru tua : income
+            * biru muda : outcome
+            """)
+
     custom_container = st.container(border=True)
     with custom_container:
-        st.markdown(" Pada tahun 2022 terdapat **1 dari 34 provinsi yang mengalami kesenjangan** yaitu **DI Yogyakarta** dengan selisih sebesar **Rp156.674**.")
+        st.markdown(" Pada tahun 2022 terdapat **1 dari 34 provinsi yang mengalami defisit pendapatan** yaitu **DI Yogyakarta** dengan selisih sebesar **Rp156.674**.")
 
 
 # Chart 5
@@ -327,9 +342,15 @@ with tab5:
     
     st.plotly_chart(image4, theme="streamlit")
     
+    st.markdown("""
+            * biru tua : income
+            * biru muda : outcome
+            """)
+
     custom_container = st.container(border=True)
     with custom_container:
-        st.markdown(" Pada tahun 2023 terdapat **3 dari 34 provinsi yang mengalami kesenjangan** yaitu **DKI Jakarta** dengan selisih sebesar **Rp451.716**, **DI Yogyakarta** dengan selisih **Rp382.727**, dan **Nusa Tenggara Barat** dengan selisih sebesar **Rp44.753**.")
+        st.markdown(" Pada tahun 2023 terdapat **3 dari 34 provinsi yang mengalami defisit pendapatan** yaitu **DKI Jakarta** dengan selisih sebesar **Rp451.716**, **DI Yogyakarta** dengan selisih **Rp382.727**, dan **Nusa Tenggara Barat** dengan selisih sebesar **Rp44.753**.")
+
 import plotly.express as px
 
 default_color = "blue"

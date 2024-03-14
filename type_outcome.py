@@ -73,5 +73,5 @@ for province in selectedProvinceSet:
 
 # Show plot
 st.markdown("""
-**Dari provinsi yang mengalami kesenjangan**, pengeluaran untuk kebutuhan **non-makanan lebih besar daripada pengeluaran untuk makanan**, sekitar **dua kali lipat lebih banyak**. Contoh pengeluaran non-makanan meliputi fasilitas rumah tangga, perumahan, barang tahan lama, kesehatan, pendidikan, pakaian, keperluan kenduri, dan sebagainya.
+**Dari provinsi yang mengalami defisit pendapatan**, pengeluaran untuk kebutuhan **non-makanan lebih besar daripada pengeluaran untuk makanan**, sekitar **dua kali lipat lebih banyak**. Contoh pengeluaran non-makanan meliputi fasilitas rumah tangga, perumahan, barang tahan lama, kesehatan, pendidikan, pakaian, keperluan kenduri, dan sebagainya.
 """, unsafe_allow_html=True)

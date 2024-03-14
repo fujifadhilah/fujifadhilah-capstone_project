@@ -11,9 +11,9 @@ st.set_page_config(layout='wide')
 st.header("Saran")
 st.markdown("""
 
-1. **Pemerintah Provinsi DI Yogyakarta** perlu memperhatikan **upaya meningkatkan pendapatan** pekerja informal, terutama di sektor **pertanian**. Selain itu, diperlukan analisis mendalam untuk memahami **penyebab** pengeluaran yang melebihi pendapatan bagi pekerja informal. Program **pelatihan dan pengembangan keterampilan** dapat membantu meningkatkan kualifikasi dan pendapatan pekerja informal mengingat **kesenjangan pendapatan pekerja informal di DI Yogyakarta tercatat dari tahun 2020 hingga 2023**.
+1. **Pemerintah Provinsi DI Yogyakarta** perlu memperhatikan **upaya meningkatkan pendapatan** pekerja informal, terutama di sektor **pertanian**. Selain itu, diperlukan analisis mendalam untuk memahami **penyebab** pengeluaran yang melebihi pendapatan bagi pekerja informal. Program **pelatihan dan pengembangan keterampilan** dapat membantu meningkatkan kualifikasi dan pendapatan pekerja informal mengingat **defisit pendapatan pekerja informal di DI Yogyakarta tercatat dari tahun 2020 hingga 2023**.
             
-2. Diperlukan **kebijakan pendapatan** bagi pekerja informal di **Pemerintah Provinsi DKI Jakarta** mengingat adanya **kesenjangan yang signifikan antara pendapatan mereka dengan UMP**.
+2. Diperlukan **kebijakan pendapatan** bagi pekerja informal di **Pemerintah Provinsi DKI Jakarta** mengingat adanya **defisit yang signifikan antara pendapatan mereka dengan UMP**.
 
 3. Meskipun **Pemerintah Provinsi Bali dan NTB telah mengalami perbaikan ekonomi** bagi pekerja informal, **tetap diperlukan pemantauan, evaluasi yang berkelanjutan, serta kebijakan ekonomi** yang memengaruhi kondisi pekerja informal.          
 
